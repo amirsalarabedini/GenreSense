@@ -29,5 +29,3 @@ The project works with a movie dataset containing titles, descriptions, and genr
 - Implement additional distance metrics for KNN
 - Explore deep learning approaches like word embeddings and neural networks
 
-## Author
-Amirsepehr Abedini - 400243056
